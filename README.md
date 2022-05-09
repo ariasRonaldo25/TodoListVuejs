@@ -13,6 +13,8 @@ npm install.
 
 npm run serve.
 
+Abra su navegador en localhost:8080
+
 3.Si deseas desplegar el proyecto es necesario realizar un build del proyecto para generar el directorio /dist.
 
 npm run build.
